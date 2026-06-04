@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: 页面环境粒子
+ * Plugin Name: Page Ambient Particles
  * Plugin URI: https://github.com/Zhrradiant/page-ambient-particles
  * Description: 为网页添加布局感知的环境粒子效果（雨/雪/自定义图片）。
  * Version: 1.0
