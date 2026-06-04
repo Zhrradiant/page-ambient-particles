@@ -124,3 +124,11 @@ engine.js boot()
 
 - WordPress 5.0 及以上
 - 浏览器需支持 ES modules 和 Canvas API
+
+---
+
+## 许可
+
+本项目基于 MIT 协议开源，你可以自由使用、修改、分发。
+
+如果你觉得这个工具曾经帮到过你，留个 Star 就行。
