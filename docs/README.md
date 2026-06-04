@@ -1,4 +1,4 @@
-<h1 align="center">页面环境粒子</h1>
+<h1 align="center">Page Ambient Particles</h1>
 
 <p align="center">
   <strong>PAP</strong> — WordPress 布局感知粒子效果插件
